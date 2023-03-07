@@ -1528,7 +1528,7 @@ def visualization(x_series, y_series, z_series, traj_x_series, traj_y_series,tra
 
 This project is licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) (see [LICENSE.md](LICENSE.md)).
 
-Copyright 2022 Parth Patel Prarthana Sigedar
+Copyright 2022 Himanshu Gautam
 
 Licensed under the GNU General Public License, Version 3.0 (the "License"); you may not use this file except in compliance with the License.
 
