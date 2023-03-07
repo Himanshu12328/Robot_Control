@@ -1520,8 +1520,7 @@ def visualization(x_series, y_series, z_series, traj_x_series, traj_y_series,tra
   - Worcester Polytechnic Institute
   - RBE 502: Robot Control - Final Project
 - Designed by:
-  - [Parth Patel](mailto:parth.pmech@gmail.com)
-  - [Prarthana Sigedar](mailto:prarthana.sigedar@gmail.com)
+  - [Himanshu Gautam](mailto:hgautam@wpi.edu)
 
 
 # License
